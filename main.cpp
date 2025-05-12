@@ -52,7 +52,6 @@ int main(int argc, char *argv[]) {
 /*
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 void usage(char *programname) {
 printf("\nHow to use: %s <liczba1> <operator> <liczba2>\n", programname);
